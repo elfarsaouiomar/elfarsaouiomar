@@ -6,5 +6,5 @@
 - ![](https://komarev.com/ghpvc/?username=elfarsaouiomar)
 
 * [Medium](https://omarelfarsaoui.medium.com/)
-* [Twitter](https://omarelfarsaoui.medium.com/)
+* [Twitter](https://twitter.com/omarelfarsaoui)
 * [Linkedin](https://www.linkedin.com/in/omar-elfarsaoui/)
